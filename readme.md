@@ -99,7 +99,7 @@ internship-credibility-analyzer/
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/internship-credibility-analyzer.git
+git clone https://github.com/shristyshreya26/internship-credibility-analyzer.git
 
 cd internship-credibility-analyzer
 
