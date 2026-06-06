@@ -6,11 +6,23 @@ AI-powered internship scam detection and credibility assessment.
 🔗 Streamlit App:
 https://internship-credibility-analyzer-3nd46bjvtkpw8gg9sggme8.streamlit.app/
 
+## Application Preview
+
+
 ## Overview
 
-Internship Credibility Analyzer is a Machine Learning-based web application that evaluates internship postings and estimates their credibility.
+Internship Credibility Analyzer is a Machine Learning-based web application that evaluates internship postings and predicts the likelihood of fraudulent or legitimate opportunities. 
 
 The system uses Natural Language Processing (TF-IDF) along with handcrafted fraud indicators to identify potentially suspicious internship opportunities and provide a credibility score.
+
+---
+
+## Key Highlights
+
+- Built an NLP-based internship credibility assessment system.
+- Applied TF-IDF vectorization and Logistic Regression.
+- Engineered fraud-indicator features for scam detection.
+- Deployed as an interactive Streamlit web application.
 
 ---
 
