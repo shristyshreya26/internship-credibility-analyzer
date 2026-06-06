@@ -1,0 +1,13 @@
+**pycache**/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+.virtual_documents/
+anaconda_projects/
+
+.env
+
+.DS_Store
+Thumbs.db
