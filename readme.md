@@ -1,4 +1,8 @@
 # Internship Credibility Analyzer
+AI-powered internship scam detection and credibility assessment.
+
+## Live Demo 
+https://internship-credibility-analyzer-3nd46bjvtkpw8gg9sggme8.streamlit.app/
 
 ## Overview
 
